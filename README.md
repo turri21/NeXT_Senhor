@@ -1,3 +1,8 @@
+-=(NeXT_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # NeXT_MiSTer
 
 NeXT core for MiSTer: a NeXTcube 68040 in FPGA.
